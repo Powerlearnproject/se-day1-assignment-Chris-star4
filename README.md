@@ -26,7 +26,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Wter fall is a structured step by step methodology where each phase is completed before moving to the next. it works best for large well defined projects with stable requirements such as banking systems where extensuve documentation and regulatory appliance are required. In contrast, Agile is a flexible, interactive approach where software is developed in small increments allowing for continuous feedbak and adjustments. It is ideal for dynamic projects like mobile apps where users needs evolve, and frequent updates are necessary
+Water fall is a structured step by step methodology where each phase is completed before moving to the next. it works best for large well defined projects with stable requirements such as banking systems where extensuve documentation and regulatory appliance are required. In contrast, Agile is a flexible, interactive approach where software is developed in small increments allowing for continuous feedbak and adjustments. It is ideal for dynamic projects like mobile apps where users needs evolve, and frequent updates are necessary
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer: i) Designs, writes and maintains code to build software applications
@@ -63,7 +63,7 @@ Importance
 1. Enhances responce accuracy: Well structured prompts reduce ambinguity, ensuring the AI generates more reliable and useful answers
 2. Improves efficiency in AI interactions: A well designed prompt reduces the need for multiple foloe up queries, saving time and improving work flow automation
 3. Optimize AI creativity and and problem solving: AI models can generate creative content, code or innovative ideas based on how prompts are structured
-4. Essenntial for AI application across industries: Prompt engineering is key in fields like healthcare, finance, education and entertainment where AU assists in diagnostics, analysis and desicion making
+4. Essenntial for AI application across industries: Prompt engineering is key in fields like healthcare, finance, education and entertainment where AI assists in diagnostics, analysis and desicion making
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
